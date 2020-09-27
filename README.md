@@ -2,4 +2,4 @@
 
 
 
-![alt text](https://github.com/HumanOsv/Logos/blob/master/Diagrama3.tif)
+![alt text](https://github.com/HumanOsv/Logos/blob/master/Diagrama3.png)
